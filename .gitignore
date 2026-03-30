@@ -18,3 +18,4 @@ dist/
 # Ocultar lógica interna y bases de datos locales
 defensa-alta-supabase.sql
 data/signatures.json
+edit_pdfs.py
