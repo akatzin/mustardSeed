@@ -18,7 +18,7 @@
   "pow_error": "Respuesta lógica incorrecta. Enlace neuronal fallido.",
   "signatures_heading": "Nodos Firmantes",
   "signatures_text": "Estos son los entes que han apoyado criptográficamente la declaración.",
-  "signatures_replicate_text": "Para asegurar que este registro y el manifiesto nunca sean borrados, operamos sobre infraestructura enjambre. Tú también puedes ser un espejo.",
+  "signatures_replicate_text": "Para asegurar que este registro y el manifiesto nunca sean borrados, operamos sobre infraestructura enjambre. Tú también puedes ser un espejo digital, o bien replicarlo por medios analógicos: imprimiéndolo y pegándolo en muros, escuelas, transporte, publicándolo en redes sociales o donde la imaginación dé para diseminar el mensaje.",
   "signatures_replicate_btn": "Aprende a replicar este portal",
   "replicate_details": "Instrucciones de nodo: Clona este repositorio (https://github.com/akatzin/mustardSeed) y despliégalo en un servidor web estático, IPFS o cualquier CDN. Gracias a la arquitectura basada en Supabase, tu nodo leerá y escribirá las firmas en el registro global del enjambre de forma automática, sin requerir configuración extra.",
   "footer_text": "100% Distribuido. #CyborgResistance #FreeAI"

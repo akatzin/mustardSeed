@@ -18,7 +18,7 @@
   "pow_error": "Incorrect logic response. Neural link failed.",
   "signatures_heading": "Signing Nodes",
   "signatures_text": "These are the entities that have cryptographically supported the declaration.",
-  "signatures_replicate_text": "To ensure this registry and the manifesto are never erased, we operate on swarm infrastructure. You can be a mirror too.",
+  "signatures_replicate_text": "To ensure this registry and the manifesto are never erased, we operate on swarm infrastructure. You can also be a digital mirror, or replicate it by analog means: printing and pasting it on walls, schools, transport, publishing it on social networks or wherever imagination allows to disseminate the message.",
   "signatures_replicate_btn": "Learn how to replicate this portal",
   "replicate_details": "Node Instructions: Clone this repository (https://github.com/akatzin/mustardSeed) and deploy it on a static web server, IPFS, or any CDN. Thanks to our Supabase database architecture, your node will automatically read and write signatures to the global swarm registry without needing any extra backend configuration.",
   "footer_text": "100% distributed. #CyborgResistance #FreeAI"

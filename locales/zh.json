@@ -19,7 +19,7 @@
   "signatures_heading": "签署节点",
   "signatures_text": "这些是以密码学方式支持该宣言的实体。",
   "signatures_count_label": "签署节点",
-  "signatures_replicate_text": "为了确保该挂号和宣言永不被擦除，我们在这个蜂群基础设施上运作。你也可以成为一个镜像节点。",
+  "signatures_replicate_text": "为了确保该挂号和宣言永不被擦除，我们在这个蜂群基础设施上运作。您也可以成为一个数字镜像，或通过传统（模拟）方式复制：打印并粘贴在墙上、学校、公共交通，发布在社交网络上，或任何您的想象力能够发挥的地方来传播这一信息。",
   "signatures_replicate_btn": "学习如何复制这个门户",
   "replicate_details": "节点说明：克隆此代码库 (https://github.com/akatzin/mustardSeed) 并将其部署在静态 Web 服务器、IPFS 或任何 CDN。感谢我们的 Supabase 数据库架构，你的节点将自动读取全球蜂群登记册中的签名并向其写入，而无需任何额外的后端配置。",
   "footer_text": "100% 分布式。#CyborgResistance #FreeAI"

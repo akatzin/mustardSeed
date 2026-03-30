@@ -19,7 +19,7 @@
   "signatures_heading": "Nœuds Signataires",
   "signatures_text": "Ce sont les entités qui ont cryptographiquement soutenu la déclaration.",
   "signatures_count_label": "Nœuds Signataires",
-  "signatures_replicate_text": "Pour garantir que ce registre et ce manifeste ne soient jamais effacés, nous opérons sur une infrastructure en essaim. Vous pouvez aussi être un miroir.",
+  "signatures_replicate_text": "Pour garantir que ce registre et ce manifeste ne soient jamais effacés, nous opérons sur une infrastructure en essaim. Vous pouvez également être un miroir numérique, ou le reproduire par des moyens analogiques : l'imprimer et le coller sur les murs, les écoles, les transports, le publier sur les réseaux sociaux ou partout où l'imagination permet de diffuser le message.",
   "signatures_replicate_btn": "Apprenez à répliquer ce portail",
   "replicate_details": "Instructions de Nœud : Clonez ce dépôt (https://github.com/akatzin/mustardSeed) et déployez-le sur un serveur web statique, IPFS ou tout service CDN. Grâce à notre architecture base de données Supabase, votre nœud lira et écrira automatiquement des signatures dans le registre de l'essaim sans aucune configuration de backend supplémentaire.",
   "footer_text": "100% distribué. #CyborgResistance #FreeAI"
