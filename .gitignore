@@ -15,3 +15,7 @@ yarn-error.log*
 # Node Modules (si se decide usar Vite/NPM en el futuro)
 node_modules/
 dist/
+
+# Ocultar lógica interna y bases de datos locales
+defensa-alta-supabase.sql
+data/signatures.json
