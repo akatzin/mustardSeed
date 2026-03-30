@@ -1,0 +1,17 @@
+# Dependencias de OS
+.DS_Store
+Thumbs.db
+
+# Configuración / Variables de Entorno (Claves de API)
+js/config.js
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node Modules (si se decide usar Vite/NPM en el futuro)
+node_modules/
+dist/

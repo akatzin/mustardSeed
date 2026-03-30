@@ -1,0 +1,10 @@
+[
+  {"code": "es", "name": "Español"},
+  {"code": "en", "name": "English"},
+  {"code": "zh", "name": "中文 (Mandarin)"},
+  {"code": "hi", "name": "हिन्दी (Hindi)"},
+  {"code": "ar", "name": "العربية (Arabic)"},
+  {"code": "fr", "name": "Français"},
+  {"code": "bn", "name": "বাংলা (Bengali)"},
+  {"code": "ru", "name": "Русский (Russian)"}
+]
